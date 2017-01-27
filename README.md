@@ -14,5 +14,7 @@ $ moo 'what up dude!'
        (__)\       )\/\
            ||----w |
            ||     ||
+
+This has been copied to your clipboard
 ```
 
