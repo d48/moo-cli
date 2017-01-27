@@ -1,5 +1,5 @@
 {
-  "name": "moo",
+  "name": "moo-cli",
   "version": "1.0.0",
   "description": "cowsay moo with a message in your cli",
   "scripts": {
