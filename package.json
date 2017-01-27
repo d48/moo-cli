@@ -1,15 +1,14 @@
 {
   "name": "moo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "cowsay moo with a message in your cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "moo": "bin/moo.js"
   },
-  "author": "",
+  "author": "Ryan Regalado",
   "license": "ISC",
   "devDependencies": {
     "copy-paste": "^1.3.0"
