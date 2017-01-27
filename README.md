@@ -1,9 +1,9 @@
 # Usage
 
 ```
-$ npm install
+$ npm install moo-cli
 
-$ npm link
+$ cd node_modules/moo-cli && npm link
 
 $ moo 'what up dude!'
  _______________
